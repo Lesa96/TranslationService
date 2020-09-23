@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translation timestamp="9/22/2020 5:13:00 PM" id="1">
+    <Language>srb</Language>
+    <From>Dovidjenja</From>
+    <To>Farewell</To>
+  </Translation>
+  <Translation timestamp="9/22/2020 5:19:45 PM" id="2">
+    <Language>srb</Language>
+    <From>Zdravo</From>
+    <To>Hello</To>
+  </Translation>
+  <Translation timestamp="9/22/2020 5:20:44 PM" id="3">
+    <Language>srb</Language>
+    <From>Drvo</From>
+    <To>Tree</To>
+  </Translation>
+  <Translation Timestamp="9/23/2020 1:24:47 PM" Id="4">
+    <Language>srb</Language>
+    <From>Ti si super</From>
+    <To>You are awesome</To>
+  </Translation>
+  <Translation Timestamp="9/23/2020 1:24:47 PM" Id="5">
+    <Language>srb</Language>
+    <From>John Doe je programer</From>
+    <To>John Doe is a programer</To>
+  </Translation>
+  <Translation Timestamp="9/23/2020 1:50:57 PM" Id="6">
+    <Language>srb</Language>
+    <From>Zdravo Sasa</From>
+    <To>Hello Sasa</To>
+  </Translation>
+</Translations>
